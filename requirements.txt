@@ -1,0 +1,5 @@
+frida>=17,<18
+frida-tools
+paramiko
+scp
+tqdm
